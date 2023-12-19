@@ -3,25 +3,10 @@ version: 2.1
 orbs:
   heroku: circleci/heroku@1.2.6
 
-references:
-  filter_only_main: &filter_only_main
-    branches:
-      only: main
-    tags:
-      ignore: /.*/
-  filter_ignore_main: &filter_ignore_main
-    branches:
-      ignore: main
-    tags:
-      ignore: /.*/
-
 executors:
   python_node:
     docker:
       - image: cimg/python:3.10.2-node
-  ruby:
-    docker:
-      - image: cimg/ruby:3.0.1
 
 commands:
   deploy-to-heroku:
@@ -35,7 +20,6 @@ commands:
           app-name: <<parameters.app-name>>
           force: true
 
-
 jobs:
   deploy-production-eu:
     executor: heroku/default
@@ -48,5 +32,4 @@ workflows:
     jobs:
       - deploy-production-eu:
           context: cyber-security-engineering-heroku-deploy
-          filters:
-            <<: *filter_only_main
+          
