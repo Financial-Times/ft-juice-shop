@@ -83,37 +83,14 @@ hackingInstructor:
   hintPlaybackSpeed: normal # Options: faster fast normal slow slower
 products:
   -
-    name: 'Pearl Milk Tea (Hot)'
-    price: 5.00
+    name: 'Apple Juice (1000ml)'
+    price: 1.99
+    deluxePrice: 0.99
     limitPerUser: 5
     description: 'The all-time classic.'
     image: apple_juice.jpg
     reviews:
-      - { text: 'One of my favorites!', author: 'HulkHogan' }
-  -
-    name: 'Taro Boba Milk Tea (Hot)'
-    price: 5.50
-    limitPerUser: 5
-    description: 'Its purple!'
-    image: apple_juice.jpg
-  -
-    name: 'Winter Melon (Hot)'
-    price: 5.25
-    limitPerUser: 5
-    description: 'Tastes like popcorn.'
-    image: apple_juice.jpg
-  -
-    name: 'Peach Green (Cold)'
-    price: 4.75
-    limitPerUser: 5
-    description: 'Great for summer.'
-    image: apple_juice.jpg
-  -
-    name: 'Strawberry Yakult (Hot)'
-    price: 10.00
-    limitPerUser: 5
-    description: 'Better than youre thinking.'
-    image: apple_juice.jpg
+      - { text: 'One of my favorites!', author: admin }
   -
     name: 'Apple Juice (1000ml)'
     price: 1.99
