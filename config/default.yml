@@ -87,6 +87,66 @@ products:
     description: 'Made from blended Raspberry Pi, water and sugar.'
     price: 4.99
     image: raspberry_juice.jpg
+  -
+    name: 'Raspberry Juice (1000ml)'
+    description: 'Made from blended Raspberry Pi, water and sugar.'
+    price: 4.99
+    image: raspberry_juice.jpg
+  -
+    name: 'Raspberry Juice (1000ml)'
+    description: 'Made from blended Raspberry Pi, water and sugar.'
+    price: 4.99
+    image: raspberry_juice.jpg
+  -
+    name: 'Raspberry Juice (1000ml)'
+    description: 'Made from blended Raspberry Pi, water and sugar.'
+    price: 4.99
+    image: raspberry_juice.jpg
+  -
+    name: 'Raspberry Juice (1000ml)'
+    description: 'Made from blended Raspberry Pi, water and sugar.'
+    price: 4.99
+    image: raspberry_juice.jpg
+  -
+    name: 'Raspberry Juice (1000ml)'
+    description: 'Made from blended Raspberry Pi, water and sugar.'
+    price: 4.99
+    image: raspberry_juice.jpg
+  -
+    name: 'Raspberry Juice (1000ml)'
+    description: 'Made from blended Raspberry Pi, water and sugar.'
+    price: 4.99
+    image: raspberry_juice.jpg
+  -
+    name: 'Raspberry Juice (1000ml)'
+    description: 'Made from blended Raspberry Pi, water and sugar.'
+    price: 4.99
+    image: raspberry_juice.jpg
+  -
+    name: 'Raspberry Juice (1000ml)'
+    description: 'Made from blended Raspberry Pi, water and sugar.'
+    price: 4.99
+    image: raspberry_juice.jpg
+  -
+    name: 'Raspberry Juice (1000ml)'
+    description: 'Made from blended Raspberry Pi, water and sugar.'
+    price: 4.99
+    image: raspberry_juice.jpg
+  -
+    name: 'Raspberry Juice (1000ml)'
+    description: 'Made from blended Raspberry Pi, water and sugar.'
+    price: 4.99
+    image: raspberry_juice.jpg
+  -
+    name: 'Raspberry Juice (1000ml)'
+    description: 'Made from blended Raspberry Pi, water and sugar.'
+    price: 4.99
+    image: raspberry_juice.jpg
+  -
+    name: 'Raspberry Juice (1000ml)'
+    description: 'Made from blended Raspberry Pi, water and sugar.'
+    price: 4.99
+    image: raspberry_juice.jpg
 memories:
   -
     image: 'magn(et)ificent!-1571814229653.jpg'
