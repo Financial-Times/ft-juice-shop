@@ -135,7 +135,9 @@ export const redirectAllowlist = new Set([
   'http://shop.spreadshirt.com/juiceshop',
   'http://shop.spreadshirt.de/juiceshop',
   'https://www.stickeryou.com/products/owasp-juice-shop/794',
-  'http://leanpub.com/juice-shop'
+  'http://leanpub.com/juice-shop',
+  'https://www.google.com',
+  'https://github.com/Financial-Times/ft-juice-shop'
 ])
 
 export const isRedirectAllowed = (url: string) => {
