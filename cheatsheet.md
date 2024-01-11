@@ -114,12 +114,9 @@ By looking at the HTML of a page you can find `<form` tags. If they don't contai
 
 ### To use in Fubble Tea
 
-By submitting this form you can change your own username if you are logged in.
+By [submitting this form](https://jsfiddle.net/Lcbrdh27/1/) you can change your own username if you are logged in.
 
-<form action="https://ft-juice-shop-b80cdbae3ec6.herokuapp.com/profile" method="POST" target="_blank">
-  <input placeholder="username" name="username" value="CSRF"/>
-  <button type="submit">Submit</button>
-</form>
+You will see the form in the bottom right of the page. You can change the username to any value and press submit.
 
 ## So What?
 
